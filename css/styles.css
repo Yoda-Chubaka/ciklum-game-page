@@ -143,9 +143,10 @@ label {
     height: 45px;
     padding: 3px 10px;
     border-radius: 4px;
+    border: 1px solid rgb(24, 23, 23);
     outline: 0;
     font-size: 18px;
-    color:rgb(24, 23, 23);
+    color: rgb(24, 23, 23);
 }
 
 .input-mail {
@@ -153,6 +154,7 @@ label {
     height: 45px;
     padding: 3px 10px;
     border-radius: 4px;
+    border: 1px solid rgb(24, 23, 23);
     outline: 0;
     font-size: 18px;
     color: rgb(24, 23, 23);
@@ -175,6 +177,7 @@ label {
     padding: 10px 15px;
     font-size: 18px;
     border-radius: 4px;
+    border: 1px solid rgb(24, 23, 23);
     outline: 0;
 }
 
